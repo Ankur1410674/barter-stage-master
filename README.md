@@ -1,2 +1,2 @@
-# book-santa-stage-6
-Stage - 6
+# barter
+barter
